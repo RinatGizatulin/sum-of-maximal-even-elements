@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "сумма четн полож элементов", "сумма четн полож элементов\сумма четн полож элементов.vcxproj", "{593E6E21-E9F0-4841-83BF-D8C2BE2AA112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{593E6E21-E9F0-4841-83BF-D8C2BE2AA112}.Debug|x64.ActiveCfg = Debug|x64
+		{593E6E21-E9F0-4841-83BF-D8C2BE2AA112}.Debug|x64.Build.0 = Debug|x64
+		{593E6E21-E9F0-4841-83BF-D8C2BE2AA112}.Debug|x86.ActiveCfg = Debug|Win32
+		{593E6E21-E9F0-4841-83BF-D8C2BE2AA112}.Debug|x86.Build.0 = Debug|Win32
+		{593E6E21-E9F0-4841-83BF-D8C2BE2AA112}.Release|x64.ActiveCfg = Release|x64
+		{593E6E21-E9F0-4841-83BF-D8C2BE2AA112}.Release|x64.Build.0 = Release|x64
+		{593E6E21-E9F0-4841-83BF-D8C2BE2AA112}.Release|x86.ActiveCfg = Release|Win32
+		{593E6E21-E9F0-4841-83BF-D8C2BE2AA112}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95D8A422-BEAD-41C3-A00B-30D05F65642D}
+	EndGlobalSection
+EndGlobal
